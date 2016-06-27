@@ -1,0 +1,161 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-us">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel='stylesheet' type='text/css' href='./mss.css'>
+  <script type="text/javascript" src="./hyphenate.js"></script>
+  <title>TREC Clinical Decision Support Track</title>
+ </head>
+
+ <body>
+
+  <div id="top">
+ <h1>
+  TREC Clinical Decision Support Track
+ </h1>
+</div>
+
+
+  <div id="left">
+ <ul class="none">
+  <li><a href="./">Home</a></li>
+  <li><a href="./2016.html">2016 Task</a></li>
+  <li><a href="./2015.html">2015 Task</a></li>
+  <li><a href="./2014.html">2014 Task</a></li>
+  <li><a href="http://groups.google.com/d/forum/trec-cds">Mailing List</a></li>
+  <li><a href="http://trec.nist.gov/">TREC</a></li>
+ </ul>
+</div>
+
+
+
+  <div id="right">
+
+   <h2>Overview</h2>
+   <div class="hyphenate">
+    <p>
+     The clinical decision support track investigates techniques for linking
+     medical records to information relevant for patient care.
+    </p>
+    <p>
+     In making clinical decisions, physicians often seek out information about
+     how to best care for their patients. Information relevant to a physician
+     can be related to a variety of clinical tasks such as determining a
+     patient's most likely diagnosis given a list of symptoms, deciding on the
+     most effective treatment plan for a patient having a known condition, and
+     determining if a particular test is indicated for a given situation. In
+     some cases, physicians can find the information they seek in published
+     biomedical literature. However, given the volume of the existing
+     literature and the rapid pace at which new research is published,
+     locating the most relevant and timely information for a particular
+     clinical need can be a daunting and time-consuming task.
+    </p>
+    <p>
+     In order to make biomedical information more accessible and to meet the
+     requirements for the meaningful use of electronic health records, a goal
+     of clinical decision support systems is to anticipate the needs of
+     physicians by linking medical cases with information relevant for patient
+     care. The goal of the clinical decision support track is to simulate the
+     requirements of such systems and encourage the creation of tools and
+     resources necessary for their implementation.
+    </p>
+   </div>
+
+   <h2>2016 Coordinators</h2>
+   <ul class="none">
+    <li>Kirk Roberts, University of Texas Health Science Center at Houston (UTHealth)</li>
+    <li>William Hersh, Oregon Health and Science University (OHSU)</li>
+    <li>Dina Demner-Fushman, U.S. National Library of Medicine (NLM)</li>
+    <li>Ellen Voorhees, National Institute of Standards and Technology (NIST)</li>
+    <!--<li>
+     <script type="text/javascript">
+      document.write("<n uers=\"znvygb:znggurj.f.fvzcfba@tznvy.pbz\" \
+      ery=\"absbyybj\">".replace(/[a-zA-Z]/g, function(c){return String
+      .fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+     </script>
+     <span class="obfuscate">nospmiS .S w<span class="void">the quick brown
+     fox jumps over the lazy dog</span>ehttaM</span>
+     <script type="text/javascript">
+      document.write("<\/a>")
+     </script>,
+     U.S. National Library of Medicine (NLM)
+    </li>
+    <li>
+     <script type="text/javascript">
+      document.write("<n uers=\"znvygb:ryyra@avfg.tbi\" ery=\"absbyybj\">"
+      .replace(/[a-zA-Z]/g, function(c){return String
+      .fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+     </script>
+     <span class="obfuscate">seehroo<span class="void">the quick brown fox
+     jumps over the lazy dog</span>V nellE</span>
+     <script type="text/javascript">
+      document.write("<\/a>")
+     </script>,
+     National Institute of Standards and Technology (NIST)
+     </li>-->
+   </ul>
+
+   <h2>Mailing List</h2>
+   <a href="http://groups.google.com/d/forum/trec-cds">http://groups.google.com/d/forum/trec-cds</a>
+
+   <!--<h2>Announcements</h2>-->
+   <table>
+    <thead>
+    <tr>
+     <th>Date</th>
+     <th>Note</th>
+    </tr>
+    </thead>
+    <tbody>
+     <tr>
+	    <!--
+      <td>December 16, 2014</td>
+      <td>
+       The <a href="http://trec.nist.gov/pubs/call2015.html">2015 call for
+       participation</a> has been released.
+      </td>
+     </tr>
+     <tr>
+	     <td>February 20, 2015</td>
+	     <td>
+		     The <a href="./2015.html">2015 task description</a> has been released.
+	     </td>
+     </tr>-->
+
+     <!--<tr>
+      <td>July 15, 2014</td>
+      <td>
+       The <a href="./2014.html#submission">2014 submission instructions</a> have been updated.
+      </td>
+     </tr>
+     <tr>
+      <td>April 28, 2014</td>
+      <td>
+       The <a href="./2014.html#topics">2014 topics</a> have been released.
+      </td>
+     </tr>
+     <tr>
+      <td>March 21, 2014</td>
+      <td>
+       The <a href="./2014.html#documents">2014 document collection</a> has been released.
+      </td>
+     </tr>
+     <tr>
+      <td>December 31, 2013</td>
+      <td>
+       The <a href="./2014.html">2014 task description</a> has been released.
+      </td>
+     </tr>
+     <tr>
+      <td>December 24, 2013</td>
+      <td>
+       The <a href="http://trec.nist.gov/pubs/call2014.html">2014 call for
+       participation</a> has been released.
+      </td>
+     </tr>-->
+    </tbody>
+   </table>
+
+  </div>
+ </body>
+</html>
